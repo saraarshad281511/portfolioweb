@@ -1,0 +1,4 @@
+body{scroll-behavior:smooth}
+.hero{height:100vh;background:linear-gradient(#000000aa,#000000aa),url('https://picsum.photos/1600/900');display:flex;align-items:center}
+.section{padding:80px 0}
+.card{margin-bottom:20px}
